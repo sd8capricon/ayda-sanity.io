@@ -1,0 +1,13 @@
+https://corelkangaroo.sanity.studio/
+	
+  _id,
+  name,
+  client,
+  location,
+  area,
+  previewImage,
+  images
+}
+
+https://cdn.sanity.io/images/u8dc6y32/production/1ba114baedc47ac96598698f766fd4100f95fdb2-1920x1080.jpg
+"image-1ba114baedc47ac96598698f766fd4100f95fdb2-1920x1080-jpg"
