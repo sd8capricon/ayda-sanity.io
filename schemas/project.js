@@ -10,6 +10,12 @@ export default {
             validation: Rule => Rule.required()
         },
         {
+            name: 'sr_no',
+            title: 'Sr. No.',
+            type: 'number',
+            validation: Rule => Rule.required()
+        },
+        {
             name: 'client',
             tite: 'Client',
             type: 'string',
